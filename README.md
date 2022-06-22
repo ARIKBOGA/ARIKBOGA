@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **#Java #selenium**
 
-- 📫 How to reach me **barikboga42@gmail.com**
+- 📫 How to reach me **barikboga@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/burak-arikboga/](https://www.linkedin.com/in/burak-arikboga/)
 

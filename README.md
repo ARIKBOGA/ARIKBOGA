@@ -5,14 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ARIKBOGA](https://github.com/ARIKBOGA)
 
-- 💬 Ask me about 
-    - ▪️**Java**
-    - ▪️**JS**
-    - ▪️**Selenium**
-    - ▪️**Cypress**
-    - ▪️**Playwright**
-    - ▪️**Postman**
-    - ▪️**RestAssured**
+- 💬 Ask me about **Manual & Automation Test** **UI Testing / Database Validation / API Testing**
 
 - 📫 How to reach me **barikboga@outlook.com**
 

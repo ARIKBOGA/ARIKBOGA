@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ARIKBOGA](https://github.com/ARIKBOGA)
 
-- 💬 Ask me about **#Java #Selenium** **#Cypress #Postman #RestAssured**
+- 💬 Ask me about **Java JS Selenium Cypress Playwright Postman RestAssured**
 
 - 📫 How to reach me **barikboga@outlook.com**
 

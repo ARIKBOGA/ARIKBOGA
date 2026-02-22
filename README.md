@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arikboga&label=Profile%20views&color=0e75b6&style=flat" alt="arikboga" /> </p>
 
-- **Manual & Automation Test** UI Testing / Database Validation / API Testing
-
-- ***Reach*** **barikboga@outlook.com**
-
-- ***Contact*** [https://www.linkedin.com/in/burak-arikboga/](https://www.linkedin.com/in/burak-arikboga/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +28,13 @@
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 	
-	
-	
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arikboga&show_icons=true&locale=en" alt="arikboga" /></p>
+
+
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ARIKBOGA&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+
+

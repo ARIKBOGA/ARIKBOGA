@@ -1,40 +1,91 @@
-<h1 align="center">SDET / QA BURAK ARIKBOĞA</h1>
-<h3 align="center">Software QA Automation Engineer | Automated and Manual Testing Expert</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arikboga&label=Profile%20views&color=0e75b6&style=flat" alt="arikboga" /> </p>
+# Burak Arikboga
 
+**Software QA Automation Engineer** · Frankfurt, DE
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burak-arikboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-arikboga" height="30" width="40" /></a>
-<a href="https://medium.com/@barikboga42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arikboga" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arikboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arikboga" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-burak--arikboga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-arikboga)
+[![Medium](https://img.shields.io/badge/Medium-@barikboga42-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@barikboga42)
+[![HackerRank](https://img.shields.io/badge/HackerRank-arikboga-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/arikboga)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a> 
-	<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src ="https://github.com/gilbarbara/logos/blob/main/logos/playwright.svg" alt="playwright" width="40" height="40"/> </a> 
-	<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-	
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=arikboga&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/arikboga)
+
+</div>
+
+---
+
+## About Me
+
+Senior QA Automation Engineer with **5+ years of experience** building scalable test automation frameworks for enterprise and security-sensitive environments. I specialize in reducing regression times, eliminating manual processes, and integrating quality into every stage of the development lifecycle.
+
+Before software engineering, I served as an **F-16 fighter pilot** in the Turkish Air Force — a background that shaped my structured approach to risk assessment, checklist-driven execution, and precision under pressure. These principles transfer directly into how I design and validate complex systems.
 
 
+---
+
+## 🚀 Key Achievements
+
+- ⚡ **~90% reduction** in QA execution time by replacing manual validation with Playwright automation
+- ⚡ **~43% reduction** in test execution time via reusable preconditions and optimized authentication
+- ⚡ **~60% decrease** in flaky test rate by introducing Playwright + TypeScript for cross-browser CI testing
+- ✅ Built true **end-to-end test flows** combining UI, API, and database validations in a single test case
+- ✅ Contributed to **API security validation** using OWASP principles in a security-sensitive Oracle ERP environment
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Automation & Testing**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
+![Cucumber](https://img.shields.io/badge/Cucumber-BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=flat-square&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**API & Database**
+
+![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**CI/CD & DevOps**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Performance & Security**
+
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+**Reporting & Management**
+
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure_Report-FFA500?style=flat-square&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**B.Sc. Computer Engineering**
+Turkish National Defense University — İstanbul, Turkey
 
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ARIKBOGA&limit=5&theme=default&combine_all_yearly_contributions=true)
+---
 
-
-
+<div align="center">
+  <sub><i>Precision from the cockpit. Quality in the codebase.</i></sub>
+</div>
